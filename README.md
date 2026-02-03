@@ -1,3 +1,5 @@
+![EFTFB](https://github.com/user-attachments/assets/be178da5-c1f0-4037-9889-8f6beac8e2ac)
+
 # 🌊 Tsunami Environment Simulation Toolkit
 
 # ✨ Core Features
